@@ -1,0 +1,27 @@
+{
+  "id": 123,
+  "name": "Mukesh",
+  "email": "mraj@example.com",
+  "phone": 918939651567,
+  "age": 32,
+  "salary": 100000,
+  "designation": "Tech Lead",
+  "projects": [
+    "PPES",
+    "COMCAST"
+  ],
+  "address": {
+    "street": "Park",
+    "city": "Bangalore",
+    "zipCode": 560037,
+    "country": "India"
+  },
+  "bankAccount": [
+    "HDFC",
+    "SBI"
+  ],
+  "personalInformation": {
+    "gender": "Male",
+    "maritialstatus": "Married"
+  }
+}
